@@ -4,13 +4,14 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+    START_TEXT = """<b>Hey {}How are you?!!</b>
+<i>AM just a നല്ല bot for all movies club... 😜😜
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+നിങ്ങൾക്ക്‌ എന്നെ നിങ്ങളുടെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ പറ്റുകയില്ല
+എന്നെ all movie club എന്ന ഗ്രൂപ്പിന് വേണ്ടി ഉണ്ടാക്കിയതാ എന്റെ മൊതലാളി 
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+https://t.me/joinchatallmoviesclub5
 </i>"""    
     
     HELP_TEXT = """
@@ -42,13 +43,13 @@ For More Details Click Help Button Below..
             -> <code>Configure</code> - Button Will Helps You To Change No. of Pages/ Buttons Per Page/ Total Result Without Acutally Editing The Repo... Also It Provide Option To Enable/Disable For Showing Invite Link In Each Results
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
-            
-@CrazyBotsz
+           
+https://t.me/joinchatal
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/joinchatallmoviesclub5">AlbertEinstein_TG</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
